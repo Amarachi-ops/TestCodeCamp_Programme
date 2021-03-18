@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fa32ecd-352d-4cd1-a4e4-1b042598e32c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OrangeHRM_Automation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/DashboardPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/login/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/setup/SetupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/45dbd64a-1f4d-489b-ac00-4d3ee4f3256e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/5199fde8-73c6-4726-93ff-c76a4bb19e0a-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/51bcbc55-a327-4f84-840b-de8d59a0bf0f-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/6cf0fedc-8a07-4fc3-84a6-caeef86d026e-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/8de11b07-a953-43f2-94a1-56f86a827828-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/d64574e3-08a4-4541-a7d3-9153f95eb9f4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/daa192e9-eb43-4ba5-8452-946ee19e49f7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/dc0fb4e1-f131-479b-b37f-e21fbc46305c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/e47c25a8-73c3-491e-a4f1-067b88f38bfa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../allure-results/ea1e8ff9-744c-4742-8105-7c7b3bbb40db-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pageObjects/DashboardPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/pageObjects/LoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/login/LoginTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/test/java/setup/SetupTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pageObjects/DashboardPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/classes/pageObjects/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/login/LoginTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../target/test-classes/setup/SetupTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testng.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1pvETS1vaiqzdZTqZMorW1tKjkW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Amarachi\TestCodeCamp_Programme\Submissions\SeleniumWebdriver\PageObjectModel_Tasks\OrangeHRM_POM\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM_Automation" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fa32ecd-352d-4cd1-a4e4-1b042598e32c" name="Default Changelist" comment="" />
+      <created>1616055173716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616055173716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
