@@ -5,49 +5,65 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fa32ecd-352d-4cd1-a4e4-1b042598e32c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OrangeHRM_Automation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/login/LoginTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/setup/SetupTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/45dbd64a-1f4d-489b-ac00-4d3ee4f3256e-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/5199fde8-73c6-4726-93ff-c76a4bb19e0a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/51bcbc55-a327-4f84-840b-de8d59a0bf0f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/6cf0fedc-8a07-4fc3-84a6-caeef86d026e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/8de11b07-a953-43f2-94a1-56f86a827828-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/d64574e3-08a4-4541-a7d3-9153f95eb9f4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/daa192e9-eb43-4ba5-8452-946ee19e49f7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/dc0fb4e1-f131-479b-b37f-e21fbc46305c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/e47c25a8-73c3-491e-a4f1-067b88f38bfa-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../allure-results/ea1e8ff9-744c-4742-8105-7c7b3bbb40db-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../resources/chromedriver.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/pageObjects/DashboardPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/main/java/pageObjects/LoginPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/login/LoginTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../src/test/java/setup/SetupTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/pageObjects/DashboardPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/classes/pageObjects/LoginPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/test-classes/login/LoginTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../target/test-classes/setup/SetupTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testng.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/Konga_OrderingProcessFlow.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/003eebb2-abee-41e3-bb09-d9398c057236-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/05699567-d91e-4690-ae38-52d7be5e8777-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/07ea6079-27c6-4f3d-a092-f18fffbc5293-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/0d4245cb-fa6e-48b5-bf96-e7df226c3e37-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/0e988e90-9d7b-497b-a641-117c148c4378-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/1a8a574b-9f48-44cd-b9f7-bc24c58ba23d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/21e82aa3-2a4f-4a31-836a-ffa2b27a4220-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/31202aae-1955-40bc-b90f-597b3ea30098-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/36469e63-f851-47c8-9cff-4ce8b967e2b4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/37a2a468-543a-4bd9-9143-62bf0a391984-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/3fc0026b-ec21-43ae-bf80-bb04a10ba561-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/42b1c449-6f96-41ab-a14e-afa449d5d967-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/4eac7cef-3936-4223-b840-2de850f75add-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/587b27fe-1cca-4e4e-9d76-d823210523b7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/59b872f8-64e4-4dd4-b466-af46df3b1cf2-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/5b1a9e30-8568-4e04-a014-57ac5c4a950d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/6751c43b-8b82-4ed0-b52b-2e801c7365a4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/696cbaf3-0ed2-4ce0-85e0-20b909ed5b9c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/717ea5c6-b12e-40dc-97e8-830ea958c073-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/7a901c1f-07fe-4f36-bf06-68e7ab5be91c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/966cc0e0-a10b-4b7d-83d6-4c778350a35d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/9926babb-6fd2-49b8-adaf-6fb273c2af5e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/9972ee30-69e4-4230-9330-759969bb396a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/a06811cf-f871-466e-ab42-abab4804625e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/a6a9c762-4dc6-4681-aee7-aa17f101800d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/b1f4d33b-005f-4d78-a52d-e1a8e7f26907-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/cd863a18-39cf-46d6-b810-d6681e5e4cd1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/cf715fa9-586c-4be9-b97c-8db7501c1e07-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/d8126fde-1f18-48b8-89e0-54ff710b016a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/e8ede22a-9425-4a91-88f9-e4d556b53586-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/e9df6d10-ce7a-4e4c-9660-98de5432de0e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/allure-results/ebb74dc3-7cbc-4ab8-a964-ab2cc91540f5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/main/java/pageObjects/AddToCartPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/main/java/pageObjects/CheckOutPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/main/java/pageObjects/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/main/java/pageObjects/SearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/main/java/pageObjects/SubCategoryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/test/java/Konga/KongaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/src/test/java/setup/SetUpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/target/classes/pageObjects/AddToCartPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/target/classes/pageObjects/CheckOutPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/target/test-classes/Konga/KongaTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/target/test-classes/setup/SetUpTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../FinalProject_Automation/Konga/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/39a04485-e41e-4854-a7cd-df28d8007547-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3d9671a6-d9ed-47e6-bf07-709e74c42bc9-result.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pageObjects/LoginPage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +100,17 @@
       <recent name="C:\Amarachi\TestCodeCamp_Programme\Submissions\SeleniumWebdriver\PageObjectModel_Tasks\OrangeHRM_POM\resources" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml">
+    <configuration name="C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRM_Automation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="OrangeHRM_Automation" />
       <useClassPathOnly />
@@ -105,9 +131,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="TestNG">
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea -Dtestng.dtd.http=true" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml" />
+      <item itemvalue="TestNG.C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml" />
+        <item itemvalue="TestNG.C:/Amarachi/TestCodeCamp_Programme/Submissions/SeleniumWebdriver/PageObjectModel_Tasks/OrangeHRM_POM/testng.xml (1)" />
       </list>
     </recent_temporary>
   </component>
